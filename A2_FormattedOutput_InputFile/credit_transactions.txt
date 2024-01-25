@@ -1,0 +1,4 @@
+Bicycle   562.30
+Gas        54.32
+Groceries 126.44
+Hotel     235.88
