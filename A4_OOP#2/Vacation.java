@@ -2,8 +2,6 @@ public abstract class Vacation{
   private String destination;
   private double budget;
 
-  //Default Constructor
-  //More comments
   Vacation()
   {
 
@@ -37,7 +35,7 @@ public abstract class Vacation{
     }
   }
 
-  public double getBudger()
+  public double getBudget()
   {
     return budget;
   }
@@ -79,5 +77,7 @@ public abstract class Vacation{
 
     return Math.abs(budget - tempObject.budget) < 0.0001;
   }
+
+  public abstract double overBudget();
 
 }
