@@ -63,6 +63,6 @@ public class AllInclusiveVacation extends Vacation {
   }
 
   public double overBudget(){
-    return getBudget() - price; //
+    return getBudget() - price; 
   }
 }
