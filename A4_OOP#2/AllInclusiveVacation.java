@@ -1,3 +1,11 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 4
+ * CLASS       : CSC 300
+ * Due         : 3/3/24
+ ******************************************************************************/
+import java.util.Objects;
+
 public class AllInclusiveVacation extends Vacation {
   
   private String brand;
@@ -9,12 +17,12 @@ public class AllInclusiveVacation extends Vacation {
 
   }
 
-  AllInclusiveVacation(String destination, double budget, String brand, int rating, double pride)
+  AllInclusiveVacation(String destination, double budget, String brand, int rating, double price)
   {
     super(destination, budget);
     setBrand(brand);
     setRating(rating);
-    setPrice(pride);
+    setPrice(price);
   }
   
   public void setBrand(String brand)
@@ -56,13 +64,42 @@ public class AllInclusiveVacation extends Vacation {
     }
   }
 
-  public String toString()
+  public double getPrice()
   {
-    return super.toString() + "Brand: " + brand + "; Rating: " 
-                            + rating + ": $" + String.format("%.2f",price) + "\n";
+    return price;
   }
 
-  public double overBudget(){
+  public String toString()
+  {
+    return super.toString() + "Brand:" + brand + ";Rating:" 
+                            + rating + ";Price:$" +String.format("%.2f",price) + "\n";
+  }
+
+  public boolean equals(Object obj)
+  {
+    if(this == obj)
+    {
+      return false;
+    }
+
+    if(obj == null || getClass() != obj.getClass())
+    {
+      return false;
+    }
+
+    AllInclusiveVacation compVacation = (AllInclusiveVacation) obj;
+
+    if(!super.equals(obj))
+    {
+      return false;
+    }
+
+    return rating == compVacation.rating && Objects.equals(price, this.price)
+           && brand.equalsIgnoreCase(compVacation.brand);
+  }
+
+  public double overBudget()
+  {
     return getBudget() - price; 
   }
 }

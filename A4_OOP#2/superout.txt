@@ -1,0 +1,45 @@
+Data For Supermarket Behesti's Food For Thought
+   Shopper ID      Start Time   End Time   Time Shopping   Checkout Time   Time In Store
+  FastShopper1        0          2               1               1               2
+  FastShopper7        0          4               2               1               4
+   BigShopper1        0          7               5               2               7
+  FastShopper4        0          6               3               1               6
+  FastShopper5        0          8               3               1               8
+   BigShopper3        0         10               6               4              10
+  FastShopper2        0         10               4               1              10
+   BigShopper2        0         13               9               4              13
+  FastShopper3        0         12               5               1              12
+  FastShopper8        0         14               5               1              14
+   BigShopper6        5         16               5               7              11
+  FastShopper9        0         16               5               1              16
+   BigShopper4        0         19              11               8              19
+ FastShopper12        5         18               1               1              13
+ FastShopper13        5         20               1               1              15
+   BigShopper8        5         22               7              11              17
+  FastShopper6        0         22               6               1              22
+   BigShopper5        0         25              12              13              25
+ FastShopper10        5         24               2               1              19
+ FastShopper11        5         26               4               1              21
+   BigShopper9       10         28               8              11              18
+ FastShopper14        5         28               5               1              23
+   BigShopper7        5         31              14              13              26
+ FastShopper15        5         30               6               1              25
+ FastShopper18       10         32               1               1              22
+  BigShopper11       10         34              10              15              24
+ FastShopper19       10         34               3               1              24
+  BigShopper10       10         37              12              16              27
+ FastShopper16       10         36               4               1              26
+ FastShopper17       10         38               4               1              28
+  BigShopper14       15         40               9              17              25
+ FastShopper20       10         40               6               1              30
+  BigShopper12       15         43              14              15              28
+ FastShopper21       10         42               6               1              32
+ FastShopper27       15         44               1               1              29
+  BigShopper13       15         46              15              17              31
+ FastShopper24       15         46               2               1              31
+ FastShopper25       15         48               2               1              33
+ FastShopper22       15         50               3               1              35
+ FastShopper23       15         52               5               1              37
+ FastShopper26       15         54               6               1              39
+The average time checking out on the Big Queue for 14 Shoppers is 10.93 minutes
+The average time checking out on the Fast Queue for 27 Shoppers is 1.00 minutes

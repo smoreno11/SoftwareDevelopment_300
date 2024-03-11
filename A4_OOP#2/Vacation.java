@@ -1,3 +1,9 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 4
+ * CLASS       : CSC 300
+ * Due         : 3/3/24
+ ******************************************************************************/
 public abstract class Vacation{
   private String destination;
   private double budget;
@@ -18,7 +24,7 @@ public abstract class Vacation{
     this.destination = destination;
   }
 
-  public String getDestination(String destination)
+  public String getDestination()
   {
     return destination;
   }
@@ -43,7 +49,7 @@ public abstract class Vacation{
   public String toString()
   {
     return "Destination: " + destination 
-         + "; Budget: $" + String.format("%.2f",budget) + "\n";
+         + ";Budget:$" + String.format("%.2f",budget) + "\n";
   }
 
   public boolean equals(Object obj)
