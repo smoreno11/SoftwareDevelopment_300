@@ -16,12 +16,14 @@ public class TestForNulls {
   }
 
   public static void main(String[] args){
-    Random randy = new Random(5);
+
+    long seed = 5;
+    Random randy = new Random(seed);
 
     ArrayList<Integer> intArrayL = new ArrayList<>();
     for(int counter = 0; counter < 9 ; counter++)
     {
-      intArrayL.add(randy.nextInt(11)+5);
+      intArrayL.add(randy.nextInt(5,16));
     }
     System.out.println("It is " + hasNoNulls(intArrayL) + " that intArrayL has no null value");
 
@@ -33,7 +35,7 @@ public class TestForNulls {
     ArrayList<String> stringArrayL = new ArrayList<>();
     for(int counter = 0; counter < 6; counter++ )
     {
-      stringArrayL.add("wxy" + (randy.nextInt(19)+9));
+      stringArrayL.add("wxy" + (randy.nextInt(9,28)));
     }
     System.out.println("It is " + hasNoNulls(stringArrayL) + " that stringArray had no null");
 
