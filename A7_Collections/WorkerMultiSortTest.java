@@ -1,3 +1,9 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 7
+ * CLASS       : CSC 300
+ * Due         : 4/13/24
+ ******************************************************************************/
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -17,7 +23,8 @@ public class WorkerMultiSortTest {
       Collections.sort(workers, new WorkerMultiSortComparator());
 
       Iterator<Worker> iterator = workers.iterator();
-      while (iterator.hasNext()) {
+      while (iterator.hasNext()) 
+      {
           System.out.println(iterator.next());
       }
   }

@@ -1,17 +1,26 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 7
+ * CLASS       : CSC 300
+ * Due         : 4/13/24
+ ******************************************************************************/
 import java.util.Comparator;
 
-class WorkerMultiSortComparator implements Comparator<Worker> {
+class WorkerMultiSortComparator implements Comparator<Worker> 
+{
     
-    public int compare(Worker w1, Worker w2) {
-        int result = w1.getJobTitle().compareTo(w2.getJobTitle());
+  public int compare(Worker worker1, Worker worker2) {
+    int result = worker1.getJobTitle().compareTo(worker2.getJobTitle());
+    //Wil sort the salary by lowest
+    if (result == 0) 
+    {
+        result = worker2.getSalary().compareTo(worker1.getSalary()); 
+        //Sort by name
         if (result == 0) 
         {
-            result = Integer.compare(w1.getName().length(), w2.getName().length());
-            if (result == 0) 
-            {
-                result = w1.getName().compareTo(w2.getName());
-            }
+            result = worker1.getName().compareTo(worker2.getName()); 
         }
-        return result;
     }
+    return result;
+}
 }

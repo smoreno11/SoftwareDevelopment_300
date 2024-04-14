@@ -1,3 +1,9 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 7
+ * CLASS       : CSC 300
+ * Due         : 4/13/24
+ ******************************************************************************/
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -12,6 +18,6 @@ public class WorkerMaxSalaryTest {
       Collections.sort(workers);
 
       Worker maxSalaryWorker = workers.get(0);
-      System.out.println("Worker with max salary: " + maxSalaryWorker);
+      System.out.printf("Worker with max salary: %s%n", maxSalaryWorker);
   }
 }

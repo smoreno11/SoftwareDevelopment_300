@@ -1,3 +1,9 @@
+/******************************************************************************
+ * AUTHOR      : Saul Moreno
+ * ASSIGNMENT# : 7
+ * CLASS       : CSC 300
+ * Due         : 4/13/24
+ ******************************************************************************/
 class Worker implements Comparable<Worker> {
     private int id;
     private String name;
