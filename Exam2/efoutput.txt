@@ -1,0 +1,520 @@
+Data For Emergency Facility Beheshti's Happy Hospital
+
+Summary Data
+Doctor 1 examines 9 patients
+Doctor 2 examines 9 patients
+Doctor 3 examines 9 patients
+Doctor 4 examines 9 patients
+Doctor 5 examines 8 patients
+Doctor 6 examines 9 patients
+Doctor 7 examines 8 patients
+Doctor 8 examines 9 patients
+Doctor 9 examines 10 patients
+Doctor 10 examines 10 patients
+Doctor 11 examines 8 patients
+Doctor 12 examines 9 patients
+Doctor 13 examines 10 patients
+Doctor 14 examines 9 patients
+Doctor 15 examines 11 patients
+Doctor 16 examines 10 patients
+Doctor 17 examines 10 patients
+Doctor 18 examines 9 patients
+Doctor 19 examines 9 patients
+Doctor 20 examines 10 patients
+Doctor 21 examines 8 patients
+Doctor 22 examines 8 patients
+Doctor 23 examines 8 patients
+Doctor 24 examines 9 patients
+Doctor 25 examines 9 patients
+Doctor 26 examines 9 patients
+Doctor 27 examines 9 patients
+Doctor 28 examines 10 patients
+Doctor 29 examines 9 patients
+Doctor 30 examines 9 patients
+Doctor 31 examines 9 patients
+Doctor 32 examines 8 patients
+Doctor 33 examines 9 patients
+Doctor 34 examines 10 patients
+Doctor 35 examines 9 patients
+Doctor 36 examines 10 patients
+Doctor 37 examines 9 patients
+Doctor 38 examines 8 patients
+Doctor 39 examines 10 patients
+Doctor 40 examines 9 patients
+Doctor 41 examines 9 patients
+Doctor 42 examines 10 patients
+Doctor 43 examines 9 patients
+Doctor 44 examines 10 patients
+Doctor 45 examines 9 patients
+Doctor 46 examines 9 patients
+Doctor 47 examines 10 patients
+Doctor 48 examines 9 patients
+Doctor 49 examines 10 patients
+Doctor 50 examines 11 patients
+
+The average total time at Emergency Facility per patient for 124 Urgent Patients is 20.21 minutes
+The average total time at Emergency Facility per patient for 177 Severe Patients is 53.40 minutes
+The average total time at Emergency Facility per patient for 159 Nominal Patients 116.47 minutes
+The average total time in office per patient for 460 Patients is 66.25 minutes
+
+  Patient ID       Patient TYPE    ARRIVAL TIME     WAIT TIME          EXAM TIME   TOTAL TIME
+   URGENT 31            URGENT                3           7               10            17
+   URGENT 66            URGENT                6           4               10            14
+   SEVERE 15            SEVERE                1           9               10            19
+   SEVERE 30            SEVERE                2           8               10            18
+   SEVERE 46            SEVERE                4           6               10            16
+    SEVERE 9            SEVERE                0          10               11            21
+   URGENT 55            URGENT                5           5               13            18
+   URGENT 60            URGENT                5           5               13            18
+   URGENT 45            URGENT                4           6               14            20
+   SEVERE 35            SEVERE                3           7               14            21
+   SEVERE 37            SEVERE                3           7               14            21
+   URGENT 47            URGENT                4           6               15            21
+    SEVERE 1            SEVERE                0          10               15            25
+   SEVERE 11            SEVERE                1           9               15            24
+   SEVERE 14            SEVERE                1           9               15            24
+   URGENT 16            URGENT                1           9               16            25
+   URGENT 50            URGENT                4           6               16            22
+   URGENT 73            URGENT                7           3               16            19
+   SEVERE 17            SEVERE                1           9               16            25
+   SEVERE 13            SEVERE                1           9               16            25
+   SEVERE 27            SEVERE                2           8               16            24
+   SEVERE 29            SEVERE                2           8               16            24
+   SEVERE 40            SEVERE                3           7               16            23
+   URGENT 10            URGENT                0          10               17            27
+    URGENT 6            URGENT                0          10               17            27
+   URGENT 80            URGENT                7           3               17            20
+   URGENT 42            URGENT                4           6               18            24
+   URGENT 76            URGENT                7           3               18            21
+   URGENT 93            URGENT                9           1               18            19
+   SEVERE 34            SEVERE                3           7               18            25
+    URGENT 5            URGENT                0          10               19            29
+   URGENT 18            URGENT                1           9               19            28
+   URGENT 77            URGENT                7           3               19            22
+   URGENT 82            URGENT                8           2               19            21
+   URGENT 90            URGENT                8           2               19            21
+   URGENT 98            URGENT                9           1               19            20
+   SEVERE 21            SEVERE                2           8               19            27
+   URGENT 69            URGENT                6           4               20            24
+   SEVERE 22            SEVERE                2           8               20            28
+   SEVERE 41            SEVERE                4           6               20            26
+   URGENT 39            URGENT                3           7               21            28
+   SEVERE 12            SEVERE                1           9               21            30
+   SEVERE 43            SEVERE                4           6               21            27
+   SEVERE 44            SEVERE                4           6               21            27
+    URGENT 3            URGENT                0          10               22            32
+   URGENT 32            URGENT                3           7               22            29
+    URGENT 8            URGENT                0          10               23            33
+  URGENT 142            URGENT               16           7               10            17
+  URGENT 118            URGENT               12           8               13            21
+   URGENT 59            URGENT                5           5               24            29
+  URGENT 146            URGENT               17           6               11            17
+   URGENT 67            URGENT                6           4               24            28
+   SEVERE 19            SEVERE                1           9               25            34
+  URGENT 187            URGENT               24           2               10            12
+  URGENT 185            URGENT               24           2               10            12
+  URGENT 168            URGENT               21           3               12            15
+  URGENT 131            URGENT               15           5               16            21
+  URGENT 177            URGENT               22           4               13            17
+  URGENT 210            URGENT               28           0               11            11
+  URGENT 189            URGENT               24           2               13            15
+   SEVERE 61            SEVERE                6          24               10            34
+   SEVERE 48            SEVERE                4          24               12            36
+   SEVERE 71            SEVERE                7          23               10            33
+  URGENT 117            URGENT               12           8               21            29
+   SEVERE 62            SEVERE                6          24               11            35
+  URGENT 141            URGENT               16           5               20            25
+  URGENT 172            URGENT               21           4               17            21
+  URGENT 227            URGENT               31           0               12            12
+   SEVERE 58            SEVERE                5          24               14            38
+  URGENT 120            URGENT               13           7               23            30
+   SEVERE 74            SEVERE                7          24               12            36
+  URGENT 113            URGENT               12           8               24            32
+  URGENT 186            URGENT               24           2               18            20
+  URGENT 171            URGENT               21           4               19            23
+  URGENT 196            URGENT               25           2               18            20
+  URGENT 169            URGENT               21           4               20            24
+   SEVERE 68            SEVERE                6          23               16            39
+  URGENT 156            URGENT               19           5               22            27
+   SEVERE 52            SEVERE                5          24               17            41
+  URGENT 260            URGENT               36           0               10            10
+  URGENT 176            URGENT               22           4               21            25
+  URGENT 202            URGENT               26           1               20            21
+  URGENT 218            URGENT               29           0               19            19
+  URGENT 170            URGENT               21           4               23            27
+  URGENT 159            URGENT               19           5               24            29
+  URGENT 237            URGENT               32           0               17            17
+   SEVERE 78            SEVERE                7          25               17            42
+  URGENT 241            URGENT               33           0               16            16
+  URGENT 193            URGENT               25           1               23            24
+   SEVERE 72            SEVERE                7          24               18            42
+  URGENT 207            URGENT               27           1               22            23
+   SEVERE 84            SEVERE                8          26               16            42
+   SEVERE 51            SEVERE                5          24               21            45
+  URGENT 197            URGENT               26           1               24            25
+  URGENT 183            URGENT               23           3               25            28
+  URGENT 212            URGENT               28           0               23            23
+  URGENT 281            URGENT               40           0               11            11
+  URGENT 252            URGENT               35           0               17            17
+  URGENT 295            URGENT               42           0               10            10
+  URGENT 244            URGENT               33           0               19            19
+  URGENT 232            URGENT               31           0               22            22
+  URGENT 254            URGENT               35           1               17            18
+   SEVERE 49            SEVERE                4          25               25            50
+   SEVERE 54            SEVERE                5          24               25            49
+   SEVERE 83            SEVERE                8          35               11            46
+  URGENT 312            URGENT               45           0               10            10
+  URGENT 264            URGENT               37           2               16            18
+   SEVERE 86            SEVERE                8          26               21            47
+  URGENT 256            URGENT               35           1               19            20
+  URGENT 250            URGENT               34           0               22            22
+  URGENT 239            URGENT               33           0               24            24
+  URGENT 322            URGENT               46           0               11            11
+   SEVERE 88            SEVERE                8          36               14            50
+  URGENT 272            URGENT               38           2               19            21
+  URGENT 304            URGENT               43           0               16            16
+  SEVERE 101            SEVERE               10          38               11            49
+  URGENT 283            URGENT               40           1               19            20
+  URGENT 303            URGENT               43           0               17            17
+  URGENT 302            URGENT               43           0               18            18
+  URGENT 253            URGENT               35           1               25            26
+  URGENT 338            URGENT               49           0               13            13
+  URGENT 285            URGENT               40           1               21            22
+  URGENT 289            URGENT               41           0               21            21
+   SEVERE 95            SEVERE                9          35               18            53
+  URGENT 267            URGENT               37           2               23            25
+  SEVERE 103            SEVERE               10          40               13            53
+   SEVERE 99            SEVERE                9          36               18            54
+  SEVERE 107            SEVERE               11          42               10            52
+  URGENT 266            URGENT               37           2               25            27
+  SEVERE 111            SEVERE               11          43               10            53
+  SEVERE 104            SEVERE               10          39               15            54
+   SEVERE 96            SEVERE                9          37               18            55
+  URGENT 356            URGENT               52           0               13            13
+  URGENT 278            URGENT               39           1               25            26
+  URGENT 348            URGENT               51           0               16            16
+  URGENT 345            URGENT               50           0               17            17
+  URGENT 377            URGENT               56           0               11            11
+  URGENT 337            URGENT               49           0               19            19
+  URGENT 306            URGENT               44           0               24            24
+  SEVERE 106            SEVERE               10          40               18            58
+  SEVERE 105            SEVERE               10          38               20            58
+  URGENT 330            URGENT               48           0               21            21
+  URGENT 378            URGENT               56           1               12            13
+  URGENT 311            URGENT               45           0               24            24
+   SEVERE 92            SEVERE                9          38               22            60
+  URGENT 397            URGENT               59           0               10            10
+   SEVERE 91            SEVERE                9          38               23            61
+  URGENT 351            URGENT               51           0               19            19
+  URGENT 382            URGENT               56           1               13            14
+  URGENT 396            URGENT               59           0               11            11
+  URGENT 321            URGENT               46           0               25            25
+  URGENT 352            URGENT               51           0               20            20
+  URGENT 399            URGENT               59           0               12            12
+  URGENT 340            URGENT               49           0               22            22
+  URGENT 336            URGENT               49           0               23            23
+  SEVERE 121            SEVERE               13          49               10            59
+  URGENT 406            URGENT               60           0               12            12
+  URGENT 358            URGENT               52           0               20            20
+  SEVERE 112            SEVERE               11          43               18            61
+  URGENT 355            URGENT               52           0               21            21
+  URGENT 361            URGENT               53           0               20            20
+  SEVERE 127            SEVERE               14          48               12            60
+  SEVERE 129            SEVERE               14          50               11            61
+  SEVERE 116            SEVERE               12          49               15            64
+  SEVERE 108            SEVERE               11          40               25            65
+  URGENT 376            URGENT               55           0               22            22
+  SEVERE 119            SEVERE               13          49               15            64
+  SEVERE 114            SEVERE               12          43               22            65
+  URGENT 405            URGENT               60           0               17            17
+  SEVERE 136            SEVERE               15          49               13            62
+  SEVERE 109            SEVERE               11          43               25            68
+  URGENT 372            URGENT               55           0               24            24
+  URGENT 387            URGENT               57           1               21            22
+  SEVERE 154            SEVERE               18          51               10            61
+  SEVERE 137            SEVERE               16          53               11            64
+  URGENT 407            URGENT               61           0               19            19
+  URGENT 452            URGENT               68           0               12            12
+  SEVERE 128            SEVERE               14          48               18            66
+  URGENT 433            URGENT               65           0               15            15
+  SEVERE 115            SEVERE               12          43               25            68
+  URGENT 448            URGENT               67           1               13            14
+  URGENT 445            URGENT               67           0               14            14
+  URGENT 427            URGENT               64           0               17            17
+  SEVERE 140            SEVERE               16          49               17            66
+  SEVERE 147            SEVERE               17          52               15            67
+  SEVERE 175            SEVERE               22          49               13            62
+  SEVERE 123            SEVERE               13          49               22            71
+  URGENT 458            URGENT               69           0               16            16
+  SEVERE 149            SEVERE               18          52               15            67
+  SEVERE 182            SEVERE               23          48               14            62
+  SEVERE 167            SEVERE               21          50               15            65
+  URGENT 453            URGENT               68           0               18            18
+  URGENT 421            URGENT               63           0               23            23
+  SEVERE 184            SEVERE               23          48               15            63
+  URGENT 444            URGENT               67           0               20            20
+  SEVERE 139            SEVERE               16          52               19            71
+  SEVERE 203            SEVERE               27          46               14            60
+  SEVERE 225            SEVERE               30          47               11            58
+  SEVERE 160            SEVERE               19          51               18            69
+  URGENT 424            URGENT               63           0               25            25
+  SEVERE 130            SEVERE               14          49               25            74
+  SEVERE 134            SEVERE               15          49               24            73
+  URGENT 439            URGENT               66           1               22            23
+  SEVERE 233            SEVERE               32          45               12            57
+  SEVERE 226            SEVERE               30          47               13            60
+  SEVERE 199            SEVERE               26          46               18            64
+  SEVERE 271            SEVERE               38          42               10            52
+  SEVERE 245            SEVERE               34          46               11            57
+  SEVERE 248            SEVERE               34          46               11            57
+  SEVERE 240            SEVERE               33          47               12            59
+  SEVERE 255            SEVERE               35          45               12            57
+  SEVERE 211            SEVERE               28          48               16            64
+  SEVERE 180            SEVERE               23          49               21            70
+  SEVERE 143            SEVERE               17          52               24            76
+  SEVERE 220            SEVERE               29          48               16            64
+  SEVERE 195            SEVERE               25          47               21            68
+  SEVERE 155            SEVERE               19          51               23            74
+  SEVERE 213            SEVERE               28          48               17            65
+  SEVERE 166            SEVERE               20          50               23            73
+  SEVERE 284            SEVERE               40          42               12            54
+  SEVERE 234            SEVERE               32          47               16            63
+  SEVERE 200            SEVERE               26          46               23            69
+  SEVERE 299            SEVERE               43          43               10            53
+  SEVERE 198            SEVERE               26          46               24            70
+  SEVERE 273            SEVERE               38          43               16            59
+  SEVERE 229            SEVERE               31          46               20            66
+  SEVERE 316            SEVERE               45          42               10            52
+  SEVERE 205            SEVERE               27          47               23            70
+  SEVERE 275            SEVERE               39          42               17            59
+  SEVERE 307            SEVERE               44          42               12            54
+  SEVERE 209            SEVERE               28          47               23            70
+  SEVERE 236            SEVERE               32          47               19            66
+  SEVERE 206            SEVERE               27          46               25            71
+  SEVERE 257            SEVERE               36          44               18            62
+  SEVERE 238            SEVERE               32          47               19            66
+  SEVERE 235            SEVERE               32          47               20            67
+  SEVERE 292            SEVERE               41          43               15            58
+  SEVERE 309            SEVERE               44          42               14            56
+  SEVERE 328            SEVERE               47          42               11            53
+  SEVERE 310            SEVERE               44          42               15            57
+  SEVERE 314            SEVERE               45          42               15            57
+  SEVERE 282            SEVERE               40          44               19            63
+  SEVERE 364            SEVERE               53          39               11            50
+  SEVERE 313            SEVERE               45          42               17            59
+  SEVERE 317            SEVERE               46          42               16            58
+  SEVERE 324            SEVERE               47          41               16            57
+  SEVERE 386            SEVERE               57          36               12            48
+  SEVERE 394            SEVERE               58          37               10            47
+  SEVERE 398            SEVERE               59          37               10            47
+  SEVERE 374            SEVERE               55          38               13            51
+  SEVERE 279            SEVERE               39          42               25            67
+  SEVERE 286            SEVERE               40          44               22            66
+  SEVERE 400            SEVERE               59          37               10            47
+  SEVERE 325            SEVERE               47          42               18            60
+  SEVERE 294            SEVERE               42          43               22            65
+  SEVERE 371            SEVERE               55          38               14            52
+  SEVERE 298            SEVERE               42          43               22            65
+  SEVERE 293            SEVERE               42          43               23            66
+  SEVERE 350            SEVERE               51          40               17            57
+  SEVERE 410            SEVERE               61          37               10            47
+  SEVERE 341            SEVERE               50          40               18            58
+  SEVERE 403            SEVERE               60          37               12            49
+  SEVERE 413            SEVERE               62          36               11            47
+  SEVERE 416            SEVERE               62          36               11            47
+  SEVERE 323            SEVERE               47          41               21            62
+  SEVERE 422            SEVERE               63          35               11            46
+  SEVERE 389            SEVERE               58          36               15            51
+  SEVERE 380            SEVERE               56          37               17            54
+  SEVERE 411            SEVERE               61          36               13            49
+  SEVERE 342            SEVERE               50          40               20            60
+  SEVERE 369            SEVERE               54          39               18            57
+  SEVERE 373            SEVERE               55          38               18            56
+  SEVERE 419            SEVERE               63          36               12            48
+  SEVERE 391            SEVERE               58          37               17            54
+  SEVERE 404            SEVERE               60          37               15            52
+  SEVERE 426            SEVERE               64          36               12            48
+  SEVERE 339            SEVERE               49          41               23            64
+  SEVERE 318            SEVERE               46          42               25            67
+  SEVERE 363            SEVERE               53          39               21            60
+  SEVERE 320            SEVERE               46          42               25            67
+  SEVERE 359            SEVERE               53          39               22            61
+  SEVERE 346            SEVERE               50          41               23            64
+  SEVERE 420            SEVERE               63          36               15            51
+  SEVERE 451            SEVERE               68          37               10            47
+  SEVERE 367            SEVERE               54          39               25            64
+  NOMINAL 24           NOMINAL                2         106               10           116
+  SEVERE 408            SEVERE               61          37               20            57
+  SEVERE 402            SEVERE               60          37               21            58
+  SEVERE 412            SEVERE               61          37               21            58
+  SEVERE 415            SEVERE               62          36               21            57
+  SEVERE 436            SEVERE               65          38               16            54
+  SEVERE 443            SEVERE               67          37               15            52
+  NOMINAL 20           NOMINAL                1         106               13           119
+  NOMINAL 25           NOMINAL                2         105               13           118
+  SEVERE 423            SEVERE               63          37               20            57
+  SEVERE 435            SEVERE               65          38               17            55
+  NOMINAL 53           NOMINAL                5         104               11           115
+  NOMINAL 63           NOMINAL                6         104               10           114
+  SEVERE 428            SEVERE               64          37               19            56
+  SEVERE 441            SEVERE               66          38               17            55
+  NOMINAL 89           NOMINAL                8         103               11           114
+  NOMINAL 23           NOMINAL                2         106               15           121
+  NOMINAL 75           NOMINAL                7         104               12           116
+   NOMINAL 2           NOMINAL                0         106               17           123
+  SEVERE 447            SEVERE               67          38               18            56
+  NOMINAL 57           NOMINAL                5         104               14           118
+  NOMINAL 26           NOMINAL                2         105               16           121
+  SEVERE 442            SEVERE               66          38               21            59
+  SEVERE 457            SEVERE               69          37               19            56
+  NOMINAL 87           NOMINAL                8         104               13           117
+ NOMINAL 122           NOMINAL               13         101               12           113
+  NOMINAL 97           NOMINAL                9         104               13           117
+  SEVERE 430            SEVERE               64          38               25            63
+ NOMINAL 124           NOMINAL               13         101               14           115
+  SEVERE 454            SEVERE               68          38               22            60
+  SEVERE 459            SEVERE               69          37               22            59
+  NOMINAL 65           NOMINAL                6         103               19           122
+   NOMINAL 4           NOMINAL                0         107               22           129
+ NOMINAL 133           NOMINAL               15         103               11           114
+  NOMINAL 28           NOMINAL                2         106               21           127
+   NOMINAL 7           NOMINAL                0         106               23           129
+  NOMINAL 33           NOMINAL                3         105               21           126
+  NOMINAL 64           NOMINAL                6         104               19           123
+ NOMINAL 100           NOMINAL                9         104               17           121
+  NOMINAL 56           NOMINAL                5         104               21           125
+  NOMINAL 36           NOMINAL                3         106               22           128
+ NOMINAL 135           NOMINAL               15         103               13           116
+  NOMINAL 38           NOMINAL                3         106               22           128
+  NOMINAL 70           NOMINAL                6         104               21           125
+ NOMINAL 150           NOMINAL               18         102               12           114
+  NOMINAL 94           NOMINAL                9         104               19           123
+ NOMINAL 126           NOMINAL               14         104               15           119
+  NOMINAL 85           NOMINAL                8         104               21           125
+ NOMINAL 145           NOMINAL               17         102               14           116
+  NOMINAL 81           NOMINAL                8         104               21           125
+ NOMINAL 165           NOMINAL               20         103               11           114
+  NOMINAL 79           NOMINAL                7         104               23           127
+ NOMINAL 178           NOMINAL               22         101               11           112
+ NOMINAL 132           NOMINAL               15         103               17           120
+ NOMINAL 110           NOMINAL               11         103               22           125
+ NOMINAL 162           NOMINAL               20         100               16           116
+ NOMINAL 138           NOMINAL               16         103               18           121
+ NOMINAL 192           NOMINAL               25         102               10           112
+ NOMINAL 125           NOMINAL               14         101               22           123
+ NOMINAL 153           NOMINAL               18         102               18           120
+ NOMINAL 102           NOMINAL               10         103               25           128
+ NOMINAL 174           NOMINAL               22         101               15           116
+ NOMINAL 181           NOMINAL               23         102               14           116
+ NOMINAL 219           NOMINAL               29         100               10           110
+ NOMINAL 152           NOMINAL               18         102               20           122
+ NOMINAL 179           NOMINAL               23         100               17           117
+ NOMINAL 151           NOMINAL               18         102               21           123
+ NOMINAL 144           NOMINAL               17         102               22           124
+ NOMINAL 217           NOMINAL               29         100               13           113
+ NOMINAL 157           NOMINAL               19         101               22           123
+ NOMINAL 224           NOMINAL               30         100               12           112
+ NOMINAL 191           NOMINAL               25         101               17           118
+ NOMINAL 158           NOMINAL               19         101               23           124
+ NOMINAL 161           NOMINAL               20         103               21           124
+ NOMINAL 163           NOMINAL               20         101               23           124
+ NOMINAL 204           NOMINAL               27         101               16           117
+ NOMINAL 194           NOMINAL               25         101               18           119
+ NOMINAL 148           NOMINAL               17         102               25           127
+ NOMINAL 247           NOMINAL               34          99               12           111
+ NOMINAL 201           NOMINAL               26         102               17           119
+ NOMINAL 216           NOMINAL               29         100               16           116
+ NOMINAL 249           NOMINAL               34          98               13           111
+ NOMINAL 214           NOMINAL               28         100               17           117
+ NOMINAL 190           NOMINAL               24         101               21           122
+ NOMINAL 262           NOMINAL               36          98               13           111
+ NOMINAL 164           NOMINAL               20         102               25           127
+ NOMINAL 223           NOMINAL               30         100               17           117
+ NOMINAL 221           NOMINAL               30          99               18           117
+ NOMINAL 188           NOMINAL               24         101               23           124
+ NOMINAL 280           NOMINAL               39          99               10           109
+ NOMINAL 270           NOMINAL               38          99               11           110
+ NOMINAL 173           NOMINAL               22         101               25           126
+ NOMINAL 268           NOMINAL               37          99               12           111
+ NOMINAL 215           NOMINAL               29         100               20           120
+ NOMINAL 208           NOMINAL               27         101               21           122
+ NOMINAL 290           NOMINAL               41          98               10           108
+ NOMINAL 269           NOMINAL               38          99               12           111
+ NOMINAL 246           NOMINAL               34          99               17           116
+ NOMINAL 231           NOMINAL               31         100               19           119
+ NOMINAL 222           NOMINAL               30          99               21           120
+ NOMINAL 274           NOMINAL               38          99               13           112
+ NOMINAL 288           NOMINAL               41          99               11           110
+ NOMINAL 259           NOMINAL               36          97               18           115
+ NOMINAL 251           NOMINAL               35          98               19           117
+ NOMINAL 301           NOMINAL               43          99               11           110
+ NOMINAL 242           NOMINAL               33          99               21           120
+ NOMINAL 319           NOMINAL               46          98               10           108
+ NOMINAL 230           NOMINAL               31         100               23           123
+ NOMINAL 331           NOMINAL               48          97               10           107
+ NOMINAL 243           NOMINAL               33          98               24           122
+ NOMINAL 265           NOMINAL               37          99               20           119
+ NOMINAL 329           NOMINAL               48          96               12           108
+ NOMINAL 228           NOMINAL               31         100               25           125
+ NOMINAL 287           NOMINAL               41          98               17           115
+ NOMINAL 333           NOMINAL               48          97               12           109
+ NOMINAL 296           NOMINAL               42          99               16           115
+ NOMINAL 261           NOMINAL               36          98               23           121
+ NOMINAL 258           NOMINAL               36          98               24           122
+ NOMINAL 263           NOMINAL               37          98               23           121
+ NOMINAL 297           NOMINAL               42          99               17           116
+ NOMINAL 343           NOMINAL               50          96               13           109
+ NOMINAL 334           NOMINAL               48          96               16           112
+ NOMINAL 308           NOMINAL               44          99               18           117
+ NOMINAL 276           NOMINAL               39          99               23           122
+ NOMINAL 277           NOMINAL               39          99               23           122
+ NOMINAL 379           NOMINAL               56          94               12           106
+ NOMINAL 327           NOMINAL               47          97               18           115
+ NOMINAL 353           NOMINAL               52          95               15           110
+ NOMINAL 370           NOMINAL               54          94               14           108
+ NOMINAL 291           NOMINAL               41          99               23           122
+ NOMINAL 315           NOMINAL               45          98               20           118
+ NOMINAL 305           NOMINAL               44          98               21           119
+ NOMINAL 383           NOMINAL               57          93               13           106
+ NOMINAL 368           NOMINAL               54          95               15           110
+ NOMINAL 300           NOMINAL               43          99               22           121
+ NOMINAL 401           NOMINAL               60          94               11           105
+ NOMINAL 357           NOMINAL               52          96               17           113
+ NOMINAL 332           NOMINAL               48          97               21           118
+ NOMINAL 362           NOMINAL               53          95               18           113
+ NOMINAL 344           NOMINAL               50          95               21           116
+ NOMINAL 381           NOMINAL               56          93               18           111
+ NOMINAL 347           NOMINAL               51          96               20           116
+ NOMINAL 393           NOMINAL               58          94               15           109
+ NOMINAL 434           NOMINAL               65          92               11           103
+ NOMINAL 429           NOMINAL               64          92               12           104
+ NOMINAL 349           NOMINAL               51          96               21           117
+ NOMINAL 354           NOMINAL               52          95               21           116
+ NOMINAL 326           NOMINAL               47          97               25           122
+ NOMINAL 335           NOMINAL               49          96               24           120
+ NOMINAL 438           NOMINAL               66          91               12           103
+ NOMINAL 390           NOMINAL               58          93               18           111
+ NOMINAL 375           NOMINAL               55          94               21           115
+ NOMINAL 385           NOMINAL               57          94               19           113
+ NOMINAL 384           NOMINAL               57          93               21           114
+ NOMINAL 460           NOMINAL               69          92               10           102
+ NOMINAL 395           NOMINAL               59          94               18           112
+ NOMINAL 360           NOMINAL               53          95               23           118
+ NOMINAL 449           NOMINAL               68          91               12           103
+ NOMINAL 414           NOMINAL               62          94               16           110
+ NOMINAL 417           NOMINAL               62          93               17           110
+ NOMINAL 409           NOMINAL               61          93               18           111
+ NOMINAL 418           NOMINAL               62          93               17           110
+ NOMINAL 455           NOMINAL               69          92               11           103
+ NOMINAL 366           NOMINAL               54          94               24           118
+ NOMINAL 450           NOMINAL               68          92               12           104
+ NOMINAL 365           NOMINAL               54          95               24           119
+ NOMINAL 425           NOMINAL               64          92               19           111
+ NOMINAL 456           NOMINAL               69          92               14           106
+ NOMINAL 388           NOMINAL               57          93               25           118
+ NOMINAL 392           NOMINAL               58          95               23           118
+ NOMINAL 440           NOMINAL               66          92               19           111
+ NOMINAL 432           NOMINAL               65          91               22           113
+ NOMINAL 431           NOMINAL               65          92               24           116
+ NOMINAL 437           NOMINAL               66          92               24           116
+ NOMINAL 446           NOMINAL               67          91               25           116
